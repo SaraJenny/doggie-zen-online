@@ -14,4 +14,4 @@ Efter genomfört projekt skall du
 - HTML-koden är väl strukturerad, och validerar korrekt.
 - Rapporten är mycket välskriven och tar upp samtliga efterfrågade delar.
 - Själva projektet är mycket väl genomfört, med en mycket bra rapport - och ditt projekt uppfyller samtliga kriterier för högsta betyg. Bra jobbat!
-BETYG: A
+- BETYG: A
