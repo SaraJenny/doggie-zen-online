@@ -101,6 +101,10 @@ table {
 §BASE
 *****************************************************************************/
 
+body, html {
+	height: 100%;
+}
+
 body {
 	background-color: #faf3e6;
 	font-size: 100%;
@@ -111,10 +115,10 @@ body {
 footer {
 	background-color: #3f3d3a;
 	color: #fff;
-	margin-top: 4em;
 	text-align: center;
-	padding: 1.5em 0;
+	padding: 25px 0;
 	clear: both;
+	height: 70px;
 }
 
 
@@ -143,6 +147,7 @@ h1 {
     font-family: 'bebasregular', sans-serif;
     text-transform: uppercase;
     float: left;
+    margin-bottom: .1em;
 }
 
 /* MENY */
@@ -196,6 +201,15 @@ h1 {
 	clear: both;
 	max-width: 940px;
 	margin: 0 auto;
+	min-height: 100%;
+	/* equal to footer height */
+	margin-bottom: -120px;
+}
+
+#mainContent:after {
+	content: "";
+  	display: block;
+  	height: 120px;
 }
 
 /* Container för sidor med vit backgrund */
