@@ -11,7 +11,6 @@ Efter genomfört projekt skall du
 - Välgjord och väl genomarbetad webbplats, med stor tydlig grafik och mycket "web 2.0 look and feel". Ajax används flitigt, och även tillsammans med drag and drop. Du har tagit alla moment från kursen, och skapat något helt eget av detta - mycket bra!
 - Användargränssnittet är mycket tydligt, och navigeringen är intuitiv.
 - Dock är webbplatsen inte särskilt välkomnande för nya besökare - det framgår inte direkt för utomstående besökare - som mig - vad webbplatsen handlar om, eller fungerar. Hade varit bra med en "Om"-sida, eller mer information på startsidan innan inloggning.
-- Din sidfot där nere hamnar mitt på sidan på vissa upplösningar. Tips: Sök på "sticky footer css", för tips om hur du kan få den längst ner hela tiden.
 - HTML-koden är väl strukturerad, och validerar korrekt.
 - Rapporten är mycket välskriven och tar upp samtliga efterfrågade delar.
 - Själva projektet är mycket väl genomfört, med en mycket bra rapport - och ditt projekt uppfyller samtliga kriterier för högsta betyg. Bra jobbat!
